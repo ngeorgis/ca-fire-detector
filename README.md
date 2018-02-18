@@ -1,4 +1,4 @@
-# ca-fire-detector
+# Wildfire Detection enabled camera using the NVIDIA Jetson TX2
 
 https://youtu.be/uWGVg6NTW6g
 
