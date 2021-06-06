@@ -1,7 +1,6 @@
 # Wildfire Detection enabled camera using the NVIDIA Jetson TX2
 
 * Video in https://youtu.be/uWGVg6NTW6g
-* Slides PDF in https://www.dropbox.com/s/ohewt4rkfg68mei/WildFireDetectionNVIDIAJetsonTX2.pdf?dl=0
 
 The 2017 California wildfire season was the most destructive wildfire season on record.
 
